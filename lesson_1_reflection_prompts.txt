@@ -1,0 +1,59 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    --It streamlined the process in highlighting all of the changes that were made. Once they were highlighted it was easy to skim through the file and look for typos.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    --It saves time no doubt. It also promotes a good practice of constantly re-checking your work as you go along to make sure there are no errors. If there are in the end, hopefully there won't be too many (and they will be easier to find).
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    --Pros can include that you can go back to a different version if the new one gets corrupted or if there is an error. Cons are that having multiple copies of a file can take up a lot of space, you can also get confused on which file you need to go back to in order to find the error/typo you made.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    --To account for the different versions of your files (the different milestones you have taken).
+
+How can you use the commands git log and git diff to view the history of files?
+
+    --Through the command prompt/terminal, you can use these commands to view files and the differences between them.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    --Using version control can reassure me that I have a backup file if something is corrupted, goes missing, or breaks. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    --I am currently working on an educational app with my roommate and we yet to get into the programming side of the app. I would like to use Git to develop parts if not the entirety of the application. I also never really understood debugging (how to do it, what to look for) so this quick way to find differences will serve to be very helpful. Beyond that I hope to continually create new applications that I can also build using Git.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	--If I needed to reuse a method that is deeply packed away I could access the original file that allows me to get to this method easily. This also holds true for separate projects entirely.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	--Pros, it makes the breakdown of your code easier to understand/makes debugging a lot faster of a process. Cons, may take some time to be good at choosing when to put commits.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	--If you are programming, the sequence and content of your work (and past work) is crucial to have easily accessible. Git allows the user to do this by saving file versions in a useful manner that makes programming on a large scale easier.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	--One can use git log to get a list of all of the commits made on a file, showing the entire history. Git diff allows the user to compare two commits and find the differences between them easily.
+
+How might using version control make you more confident to make changes that could break something?
+
+	--If I accidentally break something in a previous version of my code, it's okay because I can just go back to my functioning version using git. This makes experimentation and editing code a lot more forgiving.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	--I would like to use Git to potentially redo my final project from Computer Vision last year. By doing this I will have a better understanding on how the program functions and I can fix the bugs I had with ease. I would also like to expand my project to its final stage of development that I set out for myself to complete (but never did). I also want to utilize git to start working on my educational app that I am working on.
+
+

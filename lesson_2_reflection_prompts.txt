@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	--When you initialize a repository it creates a git folder that is invisible to the user. This git data is used when referring to the files in the directory. 
